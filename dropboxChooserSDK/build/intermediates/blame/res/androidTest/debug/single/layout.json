@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sathish/AndroidStudioProjects/FilePicker/dropboxChooserSDK/build/intermediates/res/merged/androidTest/debug/layout/bottom_buttons_light.xml",
+        "source": "/Users/sathish/AndroidStudioProjects/FilePicker/dropboxChooserSDK/build/intermediates/bundles/debug/res/layout/bottom_buttons_light.xml"
+    },
+    {
+        "merged": "/Users/sathish/AndroidStudioProjects/FilePicker/dropboxChooserSDK/build/intermediates/res/merged/androidTest/debug/layout/app_store_interstitial.xml",
+        "source": "/Users/sathish/AndroidStudioProjects/FilePicker/dropboxChooserSDK/build/intermediates/bundles/debug/res/layout/app_store_interstitial.xml"
+    },
+    {
+        "merged": "/Users/sathish/AndroidStudioProjects/FilePicker/dropboxChooserSDK/build/intermediates/res/merged/androidTest/debug/layout/bottom_bar_light.xml",
+        "source": "/Users/sathish/AndroidStudioProjects/FilePicker/dropboxChooserSDK/build/intermediates/bundles/debug/res/layout/bottom_bar_light.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sathish/AndroidStudioProjects/FilePicker/dropboxChooserSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/tab_dropbox.png",
+        "source": "/Users/sathish/AndroidStudioProjects/FilePicker/dropboxChooserSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/tab_dropbox.png"
+    },
+    {
+        "merged": "/Users/sathish/AndroidStudioProjects/FilePicker/dropboxChooserSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/sathish/AndroidStudioProjects/FilePicker/dropboxChooserSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sathish/AndroidStudioProjects/FilePicker/dropboxChooserSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/icon_new.png",
+        "source": "/Users/sathish/AndroidStudioProjects/FilePicker/dropboxChooserSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/icon_new.png"
+    }
+]
